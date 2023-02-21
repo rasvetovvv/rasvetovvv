@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [rasvetovvv](https://github.com/rasvetovvv
+> Site developer [KryvGram](https://)
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
@@ -28,7 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![rasvetovvv GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/rasvetovvv)
 
 ### Github Repos
 
