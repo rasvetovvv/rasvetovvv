@@ -41,7 +41,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, CEO
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> Program on c++
 </li>
 <br><br><br>
 </div>
