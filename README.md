@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="" >
-   <img src="https://lanyard.kyrie25.me/api/650402807261691924"  />
+   <img src="[![Discord Presence](https://lanyard.kyrie25.me/api/650402807261691924)](https://discord.com/users/650402807261691924)"  />
   </a>
     <br>
   <p>I`m a python, c++, java developer</p>
