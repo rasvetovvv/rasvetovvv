@@ -27,19 +27,19 @@
 <b>Fursona:</b> rasvetovvv
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> dota 2, programming
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> her
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Git Server</b> 
 </li>
 <li>
-<b>LastFM:</b> https://www.last.fm/de/user/melowchi
+<b>LastFM:</b> 
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, CEO
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat
