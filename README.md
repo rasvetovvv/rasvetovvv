@@ -1,44 +1,85 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-### Hi there 👋 I'm [rasvetovvv](https://github.com/rasvetovvv
-> Site developer [KryvGram](https://)
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
-
-<div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
+<body>
+  <center>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+<div align="center">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+  <a href="https://thicc-thighs.de/" >
+   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
+  </a>
+    <br>
+  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
+  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
+  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
+<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
+<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
+  
 </div>
-
-### Programming Languages 🌐
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Vue" width="24">](https://python.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
-|---|---|---|---|---|---|
-
-### Tools 🛠️
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
-
-### Github Stats
-
-[![rasvetovvv GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasvetovvv&show_icons=true&count_private=true)](https://github.com/rasvetovvv)
-
-### Github Repos
-
-[![ReadMe Card]()
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://" target="_blank"><img alt="Website" src=""></a>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Sarah</li>
+<li>
+<b>Fursona:</b> Snow Fox
+</li>
+<li>
+<b>Loves:</b> anime, osu, rhythm games
+</li>
+<li>
+<b>Gender:</b> she/her/Female 🏳️‍⚧️
+</li>
+<li>
+<b>Git Server</b> https://git.thicc-thighs.de
+</li>
+<li>
+<b>LastFM:</b> https://www.last.fm/de/user/melowchi
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+</li>
+<li>
+<b>Working @:</b> Intave Anticheat
+</li>
+<br><br><br>
+</div>
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
-
-
-⭐️ 
+<br>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+  <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+<br>
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
