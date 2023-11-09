@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm rasvetovvv, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm rasvetovvv, Research Assistant & Computer Engineer & Software Developer from Ukraine
   <br>
   💻 I love writing code and learn anythings about it
   <br>
