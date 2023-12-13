@@ -14,19 +14,13 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm rasvetovvv, Research Assistant & Computer Engineer & Software Developer from Ukraine
+  rasvetovvv
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/rasvetovvv/rasvetovvv/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: rasvetovvv@gmail.com">rasvetovvv@gmail.com</a>
+  How to reach me: <a href="mailto: rasvetovvv@gmail.com">rasvetovvv@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="c.svg"></code>
